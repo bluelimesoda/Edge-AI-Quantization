@@ -2,6 +2,10 @@
 
 An end-to-end edge native deployment pipeline and hardware-aware optimization framework for Small Language Models (SLMs). This project focuses on overcoming strictly bounded hardware constraints (Memory Bandwidth, Compute Limits, Thermal Throttling) to deliver low-latency, cloud-independent local inference.
 
+- **Notice**: The source code of this repository is private and proprietary to protect core intellectual property and business logic. This document serves as a high-level architectural blueprint and technical overview of the production system.
+
+---
+
 ## Key Architectural Highlights (Forward-Deployed Focus)
 * **Hardware-Aware Infrastructure**: Tailored execution pipelines specifically engineered to maximize the utilization of mobile NPU, GPU, and edge computing runtimes.
 * **Zero-Cloud Dependency**: Designed for 100% offline edge execution, eliminating networking bottlenecks, egress costs, and cloud infrastructure overhead.
