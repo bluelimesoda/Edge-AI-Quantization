@@ -6,7 +6,7 @@ An end-to-end edge native deployment pipeline and hardware-aware optimization fr
 
 ---
 
-## Key Architectural Highlights (Forward-Deployed Focus)
+## Key Architectural Highlights 
 * **Hardware-Aware Infrastructure**: Tailored execution pipelines specifically engineered to maximize the utilization of mobile NPU, GPU, and edge computing runtimes.
 * **Zero-Cloud Dependency**: Designed for 100% offline edge execution, eliminating networking bottlenecks, egress costs, and cloud infrastructure overhead.
 * **Production-Ready Blueprints**: Complete forward-deployed engineering path migrating complex, high-parameter baseline weights into highly optimized edge-native binaries.
