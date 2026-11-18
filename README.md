@@ -14,7 +14,7 @@ An end-to-end edge native deployment pipeline and hardware-aware optimization fr
 ## Tech Stack & Optimization Pipeline
 * **Model Baseline**: Customized Small Language Models (SLMs)
 * **Optimization Frameworks**: PyTorch, Hugging Face Optimum, ONNX Layer Optimizers
-* **Inference Runtimes**: ONNX Runtime Mobile / CoreML / TFLite *(Note: Select your active runtime)*
+* **Inference Runtimes**: ONNX Runtime Mobile, CoreML, and TFLite (Hardware-accelerated mobile inference engines)
 * **Quantization Matrix**: Post-Training Quantization (PTQ), INT4/INT8 Mixed-Precision, Weight Pruning
 * **Target Hardware**: Edge Mobile NPU, Embedded GPU, Arm Cortex Architecture
 
